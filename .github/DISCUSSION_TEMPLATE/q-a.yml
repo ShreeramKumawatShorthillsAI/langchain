@@ -8,7 +8,7 @@ body:
         Please follow these instructions, fill every question, and do every step. 🙏
         
         We're asking for this because answering questions and solving problems in GitHub takes a lot of time --
-        this is time that we cannot spend on adding new features, fixing bugs, write documentation or reviewing pull requests.
+        this is time we cannot spend on adding new features, fixing bugs, writing documentation, or reviewing pull requests.
 
         By asking questions in a structured way (following this) it will be much easier to help you.
 
@@ -47,7 +47,7 @@ body:
         After submitting this, I commit to one of:
 
           * Read open questions until I find 2 where I can help someone and add a comment to help there.
-          * I already hit the "watch" button in this repository to receive notifications and I commit to help at least 2 people that ask questions in the future.
+          * I already hit the "watch" button in this repository to receive notifications and I commit to help at least 2 people who ask questions in the future.
           * Once my question is answered, I will mark the answer as "accepted".
       options:
         - label: I commit to help with one of those options 👆
@@ -66,7 +66,7 @@ body:
         * Use code tags (e.g., ```python ... ```) to correctly [format your code](https://help.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks#syntax-highlighting).
         * INCLUDE the language label (e.g. `python`) after the first three backticks to enable syntax highlighting. (e.g., ```python rather than ```).
         * Reduce your code to the minimum required to reproduce the issue if possible. This makes it much easier for others to help you.
-        * Avoid screenshots when possible, as they are hard to read and (more importantly) don't allow others to copy-and-paste your code.
+        * Avoid screenshots when possible, as they are hard to read, and (more importantly) don't allow others to copy and paste your code.
 
       placeholder: |
         from langchain_core.runnables import RunnableLambda
